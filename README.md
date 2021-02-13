@@ -1,16 +1,53 @@
-### Hi there 👋
+### Hi, there 👋 I'm **Thiago Silva**
 
-<!--
-**s7Thiago/s7Thiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary markdown="span">Expand to see details 😎</summary>
+```dart
+import './me.dart';
 
-Here are some ideas to get you started:
+class About extends Me {
+  
+  // A little About myself 👨🏾‍💻
+  var ABOUT_ME = Me(
+    name: 'Thiago Silva',
+    workplace: Workplace(
+      company: 'STJ - Superior Tribunal de Justiça',
+      position: 'Full-Stack Web Developer',
+      level: 'Intern',
+    ), // Workplace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    // Some skills i have used 💻
+    skills: [
+      'Dart',
+      'java',
+      'JavaScript',
+      'TypeScript',
+      'C',
+      'Flutter',
+      'SQL',
+      'Spring Boot',
+      'Angular',
+      'Adobe XD',
+      'Adobe Illustrator',
+    ],
+
+    // Some skills i have learning 👨🏾‍🎓
+    learning: [
+      'Regex',
+      'Python',
+      'ReactJS',
+      'React Native',
+      'MongoDB',
+      'Node.js',
+      'Aqueduct',
+    ],
+  ); // Me
+
+  // Here's an of my biggest goals ever 🎯
+  ValueAndQuality futureGoal() => ValueAndQuality(
+        target:
+            'Use technology to help people and solve problems wherever I go 💗',
+      );
+}
+```
+</details>
