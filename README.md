@@ -1,4 +1,6 @@
-### Hi, there 👋 I'm **Thiago Silva**
+# Hi, there 👋
+
+![Welcome](./assets/welcomes.gif)
 
 <details>
   <summary markdown="span">Expand to see details 😎</summary>
@@ -51,4 +53,5 @@ class About extends Me {
       );
 }
 ```
+
 </details>
