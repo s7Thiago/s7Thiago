@@ -3,7 +3,7 @@
 ![Welcome](./assets/welcomes.gif)
 
 <details>
-  <summary markdown="span">Expand to see details 😎</summary>
+  <summary markdown="span">Expand to see details 😎 <img height="10" src="assets/keyboard_cursor.gif"/> </summary>
   
 ```dart
 import './me.dart';
@@ -53,5 +53,7 @@ class About extends Me {
       );
 }
 ```
+
+<img src="assets/walking_person.png">
 
 </details>
