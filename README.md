@@ -2,12 +2,9 @@
 
 ![Welcome](./assets/welcomes.gif)
 
-<a href="https://thiago-silva.netlify.app/#/" target="_blank">Access my personal page</a>
-#
-
 <details>
   <summary markdown="span">Expand to see more details 😎 <img height="10" src="assets/keyboard_cursor.gif"/> </summary>
-  
+
 ```dart
 import './me.dart';
 import './value_and_quality.dart';
@@ -71,3 +68,6 @@ class About extends Me {
 <img src="assets/walking_person.png">
 
 </details>
+
+#
+<a href="https://thiago-silva.netlify.app/#/" target="_blank">Access my personal page</a>
