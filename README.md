@@ -70,6 +70,6 @@ class About extends Me {
 </details>
 
 #
-<div style="display:flex;width:50%;">
-<a href="https://thiago-silva.netlify.app/#/" target="_blank">Access my personal page <img src="assets/external-link.svg"></a>
+<div style="display:flex;width:70%;">
+<a style="display:flex;flex-direction:co-reverse;" href="https://thiago-silva.netlify.app/#/" target="_blank">Access my personal page <img src="assets/external-link.svg"></a>
 </div>
