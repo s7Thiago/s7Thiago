@@ -4,8 +4,11 @@
 <div style="display:flex;flex-direction:column;">
 
 <div style="display:flex;flex-direction:row;">
+
+<a style="display:flex;flex-direction:column-reverse;" href="#">
   <img style="height: 45px;width:650px;" src="assets/welcomes.gif">
   <img style="height: 45px;width:35px;" src="assets/walking_person.png">
+</a>
 </div>
 
 <details>
