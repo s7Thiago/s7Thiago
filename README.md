@@ -2,7 +2,7 @@
 
 ![Welcome](./assets/welcomes.gif)
 
-[Acess my personal page](https://thiago-silva.netlify.app/#/)
+<a href="https://thiago-silva.netlify.app/#/" target="_blank">Access my personal page</a>
 #
 
 <details>
