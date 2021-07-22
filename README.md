@@ -1,6 +1,12 @@
 # Hi, there 👋
 
-![Welcome](./assets/welcomes.gif)
+
+<div style="display:flex;flex-direction:column;">
+
+<div style="display:flex;flex-direction:row;">
+  <img style="height: 45px;width:650px;" src="assets/welcomes.gif">
+  <img style="height: 45px;width:35px;" src="assets/walking_person.png">
+</div>
 
 <details>
   <summary markdown="span">Expand to see more details 😎 <img height="10" src="assets/keyboard_cursor.gif"/> </summary>
@@ -65,9 +71,8 @@ class About extends Me {
 }
 ```
 
-<img src="assets/walking_person.png">
-
 </details>
+</div>
 
 #
 <div style="display:flex;width:70%;">
