@@ -6,8 +6,8 @@
 #
 
 <details>
-  <summary markdown="span">Expand to see details 😎 <img height="10" src="assets/keyboard_cursor.gif"/> </summary>
-
+  <summary markdown="span">Expand to see more details 😎 <img height="10" src="assets/keyboard_cursor.gif"/> </summary>
+  
 ```dart
 import './me.dart';
 import './value_and_quality.dart';
