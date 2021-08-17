@@ -8,16 +8,16 @@
 
 
 
- <div>
+<div>
   <a href="https://github.com/s7Thiago">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s7Thiago&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s7Thiago&layout=compact&langs_count=7&theme=blue-green"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s7Thiago&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s7Thiago&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 
   
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Thiago-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="Thiago-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
