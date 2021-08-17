@@ -1,6 +1,11 @@
 # Welcome 👋
 
-![](https://komarev.com/ghpvc/?username=s7Thiago&color=green)
+<div>
+  <img src="https://komarev.com/ghpvc/?username=s7Thiago&color=green"/>
+  <img src="https://badges.pufler.dev/commits/yearly/s7Thiago"/>
+</div>
+
+##
 
 ![Welcome](./assets/welcomes.gif)
 
