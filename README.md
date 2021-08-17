@@ -10,9 +10,12 @@
 
  <div>
   <a href="https://github.com/s7Thiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s7Thiago&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s7Thiago&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s7Thiago&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s7Thiago&theme=blue-green"/>
 </div>
+
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
@@ -30,10 +33,11 @@
  ##
  
   
-  <div> 
+  <div>
+<a href="https://thiago-silva.netlify.app/#/" target="_blank"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></a>
 <a href="https://www.linkedin.com/in/s7thiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:thyagosousasilva.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "mailto:euthiagosilva@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+<a href="mailto:thyagosousasilva.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:euthiagosilva@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/Thiago Silva#2382" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
    
  ##
