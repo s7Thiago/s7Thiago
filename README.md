@@ -49,7 +49,7 @@
 ##
 
  <details>
-  <summary markdown="span">Expand to see more details 😎 <img height="10" src="assets/keyboard_cursor.gif"/> </summary>
+  <summary markdown="span">Expand to see more details 😎 </summary>
 
 ```dart
 import './me.dart';
@@ -73,6 +73,8 @@ class About extends Me {
       );
   }
 ```
+   
+<img height="10" src="assets/keyboard_cursor.gif"/>
 
 </details>
 
